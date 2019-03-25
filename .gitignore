@@ -1,0 +1,20 @@
+
+src/main/resources
+
+*.properties
+### Scala template
+*.log
+
+### SBT template
+# Simple Build Tool
+target/
+project/boot/
+project/plugins/project/
+
+# Scala-IDE specific
+.idea
+*.iml
+
+
+#test files
+*.txt
